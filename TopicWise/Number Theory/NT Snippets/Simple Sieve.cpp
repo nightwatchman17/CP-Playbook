@@ -9,7 +9,7 @@ void simple_sieve() {
 
      for (int i = 4; i < inf; i += 2) mark[i] = 1;
      
-     int sq = sqrt(inf+1);
+     int sq = sqrt(inf + 1);
      for (int i = 3; i < inf; i += 2) {
           if (!(mark[i])) {
                primes.push_back(i);
