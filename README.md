@@ -1,8 +1,8 @@
-You may read [My_Story](https://github.com/nightwatchman17/CP-Playbook/blob/main/Very%20Personal%20Story%20(Useless).txt)
+~~You may read~~ [My_Story](https://github.com/nightwatchman17/CP-Playbook/blob/main/Very%20Personal%20Story%20(Useless).txt)
 
-**The CP RoadMap**
+**The CP RoadMap** -
 
-## **PLAYLIST**
+## **Playlist**
 
 - Graph Theory
 - Dynamic Programming
