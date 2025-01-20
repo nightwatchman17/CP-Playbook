@@ -3,3 +3,5 @@
 
 
 **Blogs** : [CP Algorithm](https://cp-algorithms.com/dynamic_programming/intro-to-dp.html) , [GKG](https://www.geeksforgeeks.org/dynamic-programming/) , [codeforces](https://codeforces.com/blog/entry/67679) , [usaco guide](https://usaco.guide/gold/intro-dp?lang=cpp)
+
+**Ladder** : 
