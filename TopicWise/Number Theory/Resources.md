@@ -1,7 +1,7 @@
 
 **YouTube :** 
-    - [CodeNCode](https://www.youtube.com/watch?v=dg1CUYrLrD0&list=PL5DyztRVgtRWblnyEHtajWijQffrfwLz6)
-    - [Sai Avinash](https://www.youtube.com/watch?v=i_mKApcoiPc&list=PLN4aKSfpk8TQUiURV1k70At4Tj5oKb92i)
+    - [CodeNCode](https://www.youtube.com/watch?v=dg1CUYrLrD0&list=PL5DyztRVgtRWblnyEHtajWijQffrfwLz6)  
+    - [Sai Avinash](https://www.youtube.com/watch?v=i_mKApcoiPc&list=PLN4aKSfpk8TQUiURV1k70At4Tj5oKb92i)  
     - [vivek Gupta](https://www.youtube.com/watch?v=znENoVN73G8&t=5649s), [1](https://www.youtube.com/watch?v=7WoDnrEHQpE), [2](https://www.youtube.com/watch?v=cfnQf535c5U)
     - [Collin Golen](https://www.youtube.com/watch?v=KOzByAdxVZ8&t=1s)
     - [Snack Down](https://www.youtube.com/watch?v=2425rGNrXOQ&t=6779s)
