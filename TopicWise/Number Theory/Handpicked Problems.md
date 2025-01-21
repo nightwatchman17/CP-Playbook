@@ -11,6 +11,6 @@ Insane : `(2000  -  inf)`
 
 | Problems     | Difficulty    | Tag     | Hints     |
 |--------------|--------------|--------------|--------------|
-| [1](https://codeforces.com/contest/300/problem/C) | Medium+ | 'Modular Arithmetic'<br>'Combinatorics' |  |
+| [1](https://codeforces.com/contest/300/problem/C) | Medium+ | `Modular Arithmetic`<br>`Combinatorics` |  |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 |
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
