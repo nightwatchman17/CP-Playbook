@@ -7,10 +7,10 @@ Hard : `(1700  -  2000]`
 Insane : `(2000  -  inf)`  
 
 
-## Number Theory Related Problems :: 
+### Number Theory Related Problems : : 
 
 | Problems     | Difficulty    | Tag     | Hints     |
 |--------------|--------------|--------------|--------------|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 |
+| [1](https://codeforces.com/contest/300/problem/C) | Medium+ | Modular Arithmetic  Combinatorics |  |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 |
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
