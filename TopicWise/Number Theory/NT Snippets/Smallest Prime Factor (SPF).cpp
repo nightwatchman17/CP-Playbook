@@ -1,7 +1,7 @@
 // Smallest Prime Factor
 //=================================
 
-const ll inf = 2e5 + 5;
+const ll inf = 2e6 + 5;
 vector<int> spf(inf);
 
 void SPF_gen() {

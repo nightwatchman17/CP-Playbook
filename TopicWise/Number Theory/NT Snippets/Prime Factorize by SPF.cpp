@@ -19,8 +19,7 @@ void SPF_gen() {
      }
 }
 
-void prime_factorize(ll x)
-{
+void prime_factorize(ll x) {
      vector<pair<ll, ll>> vp;
      int cnt = 0;
      while (x > 1) {
