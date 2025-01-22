@@ -14,4 +14,5 @@ Insane : `(2000  -  inf)`
 |--------------|--------------|--------------|--------------|
 | [1](https://codeforces.com/contest/300/problem/C) | Medium+ | `Modular Arithmetic`<br>`Combinatorics` |  |
 | [2](https://www.spoj.com/problems/DIV/) | Medium | `Divisors`<br>`Prime Factorize` | Precalculation |
+| [3](https://codeforces.com/problemset/problem/230/B) | Easy | `Sieve` | Factorization |
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
