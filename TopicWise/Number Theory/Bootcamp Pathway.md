@@ -11,7 +11,7 @@
 - Highly Composite Integers
 - Co-Primes
 - Facts about Prime
-- All Divisors of a Number
+- All Divisors of a Number {`&radic;n`}
 - Upper Bound of Number of Divisors
 - Primility Test
 - GCD, LCM, Eucledean Algorithm
@@ -52,4 +52,6 @@
 - Chicken Maccnugget Theorem
 - Sum of Floor
 - Primitive Roots
+
+.... (Under Construction) ....
 
