@@ -2,7 +2,7 @@
 ### Contents :
 - - - - - - - 
 
-`[Collected Problems](https://github.com/nightwatchman17/CP-Playbook/blob/main/TopicWise/Number%20Theory/Handpicked%20Problems.md)`
+[`Collected Problems`](https://github.com/nightwatchman17/CP-Playbook/blob/main/TopicWise/Number%20Theory/Handpicked%20Problems.md)
 
 
 - General Discussion on Divisor, Multiple and Prime Numbers
