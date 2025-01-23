@@ -11,7 +11,7 @@
 - Highly Composite Integers
 - Co-Primes
 - Facts about Prime
-- All Divisors of a Number {`&radic;n`}
+- All Divisors of a Number {`&radic; 4`}
 - Upper Bound of Number of Divisors
 - Primility Test
 - GCD, LCM, Eucledean Algorithm
