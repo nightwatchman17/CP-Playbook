@@ -21,3 +21,4 @@ Insane : `(2000  -  inf)`
 | [7](https://www.spoj.com/problems/MAIN12B/) | Medium+ | `Prime Factorize` | |
 | [9](https://www.spoj.com/problems/COMDIV/) | Medium | `Divisors` | |
 | [11](https://www.spoj.com/problems/PTRI/) | Medium | `Sieve` | |
+| [12](https://codeforces.com/contest/665/problem/F) | Insane | `Prime Counting Function` | |
