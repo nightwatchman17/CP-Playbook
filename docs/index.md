@@ -1,8 +1,9 @@
 
-### Contents :
+### Number Theory Contents :
 - - - - - - - 
 
-[`Collected Problems`](https://github.com/nightwatchman17/CP-Playbook/blob/main/TopicWise/Number%20Theory/Handpicked%20Problems.md)
+[`Collected Problems`](https://github.com/nightwatchman17/CP-Playbook/blob/main/TopicWise/Number%20Theory/Handpicked%20Problems.md) [`Number Theory Code Snippets`](https://github.com/nightwatchman17/CP-Playbook/tree/main/TopicWise/Number%20Theory/NT%20Snippets)
+
 
 
 - General Discussion on Divisor, Multiple and Prime Numbers
@@ -58,5 +59,5 @@
 
 .... (Under Construction) ....
 
-[Code Snippets](https://github.com/nightwatchman17/CP-Playbook/tree/main/TopicWise/Number%20Theory/NT%20Snippets)
+
 
