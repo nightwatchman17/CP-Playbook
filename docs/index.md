@@ -56,3 +56,5 @@
 
 .... (Under Construction) ....
 
+[Code Snippets](https://github.com/nightwatchman17/CP-Playbook/tree/main/TopicWise/Number%20Theory/NT%20Snippets)
+
