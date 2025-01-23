@@ -12,7 +12,12 @@ Insane : `(2000  -  inf)`
 
 | Problems     | Difficulty    | Tag     | Hints     |
 |--------------|--------------|--------------|--------------|
-| [1](https://codeforces.com/contest/300/problem/C) | Medium+ | `Modular Arithmetic`<br>`Combinatorics` |  |
-| [2](https://www.spoj.com/problems/DIV/) | Medium | `Divisors`<br>`Prime Factorize` | Precalculation |
-| [3](https://codeforces.com/problemset/problem/230/B) | Easy | `Sieve` | Factorization |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
+| [1](https://codeforces.com/contest/300/problem/C) | Medium+ | `Modular Arithmetic` `Combinatorics` |  |
+| [2](https://www.spoj.com/problems/DIV/) | Medium | `Divisors` `Prime Factorize` | Precalculation |
+| [3](https://codeforces.com/problemset/problem/230/B), [10](https://www.spoj.com/problems/TDPRIMES/) | Easy | `Sieve` | Factorization |
+| [4](https://www.spoj.com/problems/KPRIMESB/) | Medium | `Sieve` `Inclusion-Exclusion` |  |
+| [5](https://www.spoj.com/problems/NTHPRIME/) | Hard | `Prime Counting Function` | |
+| [6](https://www.spoj.com/problems/PRINT/), [8](https://www.spoj.com/problems/PRIME1/) | Medium | `Segmented Sieve` | |
+| [7](https://www.spoj.com/problems/MAIN12B/) | Medium+ | `Prime Factorize` | |
+| [9](https://www.spoj.com/problems/COMDIV/) | Medium | `Divisors` | |
+| [11](https://www.spoj.com/problems/PTRI/) | Medium | `Sieve` | |
