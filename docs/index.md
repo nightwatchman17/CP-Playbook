@@ -8,7 +8,7 @@
 - Amount Of Primes, Prime Gaps
 - Prime Conjectures
     - Twin Prime
-    - Goldbacth Conjecture
+    - Goldbatch Conjecture
 - Highly Composite Integers
 - Co-Primes
 - Facts about Prime
