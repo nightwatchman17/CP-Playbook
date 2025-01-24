@@ -17,8 +17,8 @@
 - Highly Composite Integers <b><span style="color: Green;">[`Done`]</span></b>
 - Facts about Prime <b><span style="color: Green;">[`Done`]</span></b>
 - All Divisors of a Number (O(N), O(sqrt(N))) <b><span style="color: Green;">[`Done`]</span></b>
-- Upper Bound of Number of Divisors <b><span style="color: Green;">[`Done`]</span></b>`
-- Primility Test (O(N), O(sqrt(N))) <b><span style="color: Green;">[`Done`]</span></b>`
+- Upper Bound of Number of Divisors <b><span style="color: Green;">[`Done`]</span></b>
+- Primility Test (O(N), O(sqrt(N))) <b><span style="color: Green;">[`Done`]</span></b>
 - Divisors From 1 to N (O(N log N)) <b><span style="color: Green;">[`Done`]</span></b>
 - Sieve (O(N log log N)) <b><span style="color: Green;">[`Done`]</span></b>
 - Segmented Sieve <b><span style="color: Green;">[`Done`]</span></b>
