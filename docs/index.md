@@ -1,7 +1,4 @@
 
-body {
-    background-color: lightblue;
-}
 
 ### Number Theory Contents :
 - - - - - - - - -
@@ -11,7 +8,7 @@ body {
 
 
 
-- General Discussion on Divisor, Multiple and Prime Numbers <span style="color: red;">Discussed</span>
+- General Discussion on Divisor, Multiple and Prime Numbers <span style="color: Green;"><b>[Discussed]<b></span>
 - Fundamental Theory Of Arithmetic (FTA)
 - Amount Of Primes, Prime Gaps
 - Prime Conjectures
