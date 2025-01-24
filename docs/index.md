@@ -8,20 +8,20 @@
 
 
 
-- General Discussion on Divisor, Multiple and Prime Numbers `<span style="color: Green;"><b>[Done]</b></span>`
-- Fundamental Theory Of Arithmetic (FTA) `<b><span style="color: Green;">[Done]</span></b>`
-- Amount Of Primes, Prime Gaps `<b><span style="color: Green;">[Done]</span></b>`
-- Prime Conjectures `<b><span style="color: Green;">[Done]</span></b>`
+- General Discussion on Divisor, Multiple and Prime Numbers <span style="color: Green;"><b>[`Done`]</b></span>
+- Fundamental Theory Of Arithmetic (FTA) <b><span style="color: Green;">[`Done`]</span></b>
+- Amount Of Primes, Prime Gaps <b><span style="color: Green;">[`Done`]</span></b>
+- Prime Conjectures <b><span style="color: Green;">[`Done`]</span></b>
     - Twin Prime
     - Goldbatch Conjecture
-- Highly Composite Integers `<b><span style="color: Green;">[Done]</span></b>`
-- Facts about Prime `<b><span style="color: Green;">[Done]</span></b>`
-- All Divisors of a Number (O(N), O(sqrt(N))) `<b><span style="color: Green;">[Done]</span></b>`
-- Upper Bound of Number of Divisors `<b><span style="color: Green;">[Done]</span></b>`
-- Primility Test (O(N), O(sqrt(N))) `<b><span style="color: Green;">[Done]</span></b>`
-- Divisors From 1 to N (O(N log N)) `<b><span style="color: Green;">[Done]</span></b>`
-- Sieve (O(N log log N)) `<b><span style="color: Green;">[Done]</span></b>`
-- Segmented Sieve `<b><span style="color: Green;">[Done]</span></b>`
+- Highly Composite Integers <b><span style="color: Green;">[`Done`]</span></b>
+- Facts about Prime <b><span style="color: Green;">[`Done`]</span></b>
+- All Divisors of a Number (O(N), O(sqrt(N))) <b><span style="color: Green;">[`Done`]</span></b>
+- Upper Bound of Number of Divisors <b><span style="color: Green;">[`Done`]</span></b>`
+- Primility Test (O(N), O(sqrt(N))) <b><span style="color: Green;">[`Done`]</span></b>`
+- Divisors From 1 to N (O(N log N)) <b><span style="color: Green;">[`Done`]</span></b>
+- Sieve (O(N log log N)) <b><span style="color: Green;">[`Done`]</span></b>
+- Segmented Sieve <b><span style="color: Green;">[`Done`]</span></b>
 - GCD, LCM, Eucledean Algorithm
 - Geometric Proof, Dot Reresentation
 - Smallest Prime Factor(SPF)
