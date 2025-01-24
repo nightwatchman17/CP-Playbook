@@ -1,13 +1,13 @@
 
 ### Number Theory Contents :
-- - - - - - - 
+- - - - - - - - -
 
 [`Collected Problems`](https://github.com/nightwatchman17/CP-Playbook/blob/main/TopicWise/Number%20Theory/Handpicked%20Problems.md) [`Number Theory Code Snippets`](https://github.com/nightwatchman17/CP-Playbook/tree/main/TopicWise/Number%20Theory/NT%20Snippets)
 
 
 
 - General Discussion on Divisor, Multiple and Prime Numbers
-- Fundamental Theory Of Arithmetic
+- Fundamental Theory Of Arithmetic (FTA)
 - Amount Of Primes, Prime Gaps
 - Prime Conjectures
     - Twin Prime
@@ -15,20 +15,21 @@
 - Highly Composite Integers
 - Co-Primes
 - Facts about Prime
-- All Divisors of a Number 
+- All Divisors of a Number (O(N), O(sqrt(N)))
 - Upper Bound of Number of Divisors
-- Primility Test
+- Primility Test (O(N), O(sqrt(N)))
 - GCD, LCM, Eucledean Algorithm
 - Geometric Proof, Dot Reresentation
-- Divisors From 1 to N
-- Sieve 
+- Divisors From 1 to N (O(N log N))
+- Sieve (O(N log log N))
 - Segmented Sieve
 - Smallest Prime Factor(SPF)
 - Prime Factorization
-    - Naive
-    - Sieve
-    - SPF
-- Binary Exponentiation
+    - Naive (O(sqrt(N)))
+    - Sieve (O(log N))
+    - SPF (O(Prime Factors))
+- Binary Exponentiation (O(log N))
+
 - The S Functions
 - Product of Divisors
 - Modular Arithmetic
