@@ -1,12 +1,17 @@
 
+body {
+    background-color: lightblue;
+}
+
 ### Number Theory Contents :
 - - - - - - - - -
 
-[`Collected Problems`](https://github.com/nightwatchman17/CP-Playbook/blob/main/TopicWise/Number%20Theory/Handpicked%20Problems.md) [`Number Theory Code Snippets`](https://github.com/nightwatchman17/CP-Playbook/tree/main/TopicWise/Number%20Theory/NT%20Snippets)
+[`Collected Problems`](https://github.com/nightwatchman17/CP-Playbook/blob/main/TopicWise/Number%20Theory/Handpicked%20Problems.md)  
+[`Number Theory Code Snippets`](https://github.com/nightwatchman17/CP-Playbook/tree/main/TopicWise/Number%20Theory/NT%20Snippets)
 
 
 
-- General Discussion on Divisor, Multiple and Prime Numbers
+- General Discussion on Divisor, Multiple and Prime Numbers <span style="color: red;">Discussed</span>
 - Fundamental Theory Of Arithmetic (FTA)
 - Amount Of Primes, Prime Gaps
 - Prime Conjectures
