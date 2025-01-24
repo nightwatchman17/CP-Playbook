@@ -8,9 +8,9 @@
 
 
 
-- General Discussion on Divisor, Multiple and Prime Numbers <span style="color: Green;"><b>[Discussed]<b></span>
-- Fundamental Theory Of Arithmetic (FTA)
-- Amount Of Primes, Prime Gaps
+- General Discussion on Divisor, Multiple and Prime Numbers <span style="color: Green;"><b>[Done]</b></span>
+- Fundamental Theory Of Arithmetic (FTA) <span style="color: Green;">[Done]</span>
+- Amount Of Primes, Prime Gaps <b><span style="color: Green;">[Done]</span></b>
 - Prime Conjectures
     - Twin Prime
     - Goldbatch Conjecture
