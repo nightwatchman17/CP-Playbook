@@ -22,3 +22,4 @@ Insane : `(2000  -  inf)`
 | [9](https://www.spoj.com/problems/COMDIV/) | Medium | `Divisors` | |
 | [11](https://www.spoj.com/problems/PTRI/) | Medium+ | `Sieve` | |
 | [12](https://codeforces.com/contest/665/problem/F) | Insane | `Prime Counting Function` | |
+| [13](https://codeforces.com/contest/1542/problem/C) | Medium | `LCM, Divisors` | |
